@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-16T16:30:57 IST" name="Suite" finished-at="2020-05-16T16:31:04 IST" duration-ms="6681">
+    <groups>
+    </groups>
+    <test started-at="2020-05-16T16:30:57 IST" name="Test" finished-at="2020-05-16T16:31:04 IST" duration-ms="6681">
+      <class name="QAPractice.FirstMavenProject.firstTest">
+        <test-method signature="LaunchGoogleTest()[pri:0, instance:QAPractice.FirstMavenProject.firstTest@38afe297]" started-at="2020-05-16T16:30:57 IST" name="LaunchGoogleTest" finished-at="2020-05-16T16:31:04 IST" duration-ms="6626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchGoogleTest -->
+      </class> <!-- QAPractice.FirstMavenProject.firstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
